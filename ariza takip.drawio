@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-17T08:12:08.730Z" agent="5.0 (Windows)" etag="gJuYuWtiG9z1VQUAXw2J" version="12.9.13" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-17T08:14:17.852Z" agent="5.0 (Windows)" etag="oE41A1YVNaWQCRIH595t" version="12.9.13" type="github">
   <diagram id="MUwsVrfa6CfVyeA1z7Bb" name="Page-1">
     <mxGraphModel dx="3220" dy="3482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -342,7 +342,7 @@
         <mxCell id="PehuMIGnU_n_UuZmKmM0-64" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="PehuMIGnU_n_UuZmKmM0-63">
           <mxGeometry width="390" height="670" as="geometry" />
         </mxCell>
-        <mxCell id="PehuMIGnU_n_UuZmKmM0-65" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Inventory Management&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PehuMIGnU_n_UuZmKmM0-63">
+        <mxCell id="PehuMIGnU_n_UuZmKmM0-65" value="&lt;font style=&quot;font-size: 22px&quot;&gt;User Management&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PehuMIGnU_n_UuZmKmM0-63">
           <mxGeometry x="65" y="70" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PehuMIGnU_n_UuZmKmM0-68" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -351,7 +351,7 @@
         <mxCell id="PehuMIGnU_n_UuZmKmM0-69" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="PehuMIGnU_n_UuZmKmM0-68">
           <mxGeometry width="390" height="670" as="geometry" />
         </mxCell>
-        <mxCell id="PehuMIGnU_n_UuZmKmM0-70" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Inventory Management&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PehuMIGnU_n_UuZmKmM0-68">
+        <mxCell id="PehuMIGnU_n_UuZmKmM0-70" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Failure Management&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PehuMIGnU_n_UuZmKmM0-68">
           <mxGeometry x="65" y="70" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PehuMIGnU_n_UuZmKmM0-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.327;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PehuMIGnU_n_UuZmKmM0-72" target="PehuMIGnU_n_UuZmKmM0-77">
@@ -363,7 +363,7 @@
         <mxCell id="PehuMIGnU_n_UuZmKmM0-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PehuMIGnU_n_UuZmKmM0-75" target="PehuMIGnU_n_UuZmKmM0-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PehuMIGnU_n_UuZmKmM0-75" value="Team Management" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#82b366;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#d5e8d4;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="PehuMIGnU_n_UuZmKmM0-75" value="Handyman Management" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#82b366;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#d5e8d4;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="590" y="20" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PehuMIGnU_n_UuZmKmM0-76" value="" style="group" vertex="1" connectable="0" parent="1">
