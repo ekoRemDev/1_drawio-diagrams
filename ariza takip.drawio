@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-17T12:36:43.367Z" agent="5.0 (Windows)" etag="qQsPRgOdZXCPwYtIhxJJ" version="12.9.13" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-17T12:39:10.576Z" agent="5.0 (Windows)" etag="QlhJMBzQjB9hanXr-2Dj" version="12.9.13" type="github">
   <diagram id="MUwsVrfa6CfVyeA1z7Bb" name="Page-1">
     <mxGraphModel dx="1831" dy="3830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -210,9 +210,6 @@
         <mxCell id="PehuMIGnU_n_UuZmKmM0-30" value="&lt;font style=&quot;font-size: 29px&quot;&gt;Reception&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="-360" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PehuMIGnU_n_UuZmKmM0-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PehuMIGnU_n_UuZmKmM0-33" target="PehuMIGnU_n_UuZmKmM0-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PehuMIGnU_n_UuZmKmM0-38" value="Cihazlar" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1584" y="310" width="120" height="80" as="geometry" />
         </mxCell>
@@ -233,7 +230,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PehuMIGnU_n_UuZmKmM0-50" value="ODA-CIHAZ" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="1064" y="410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PehuMIGnU_n_UuZmKmM0-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PehuMIGnU_n_UuZmKmM0-51" target="PehuMIGnU_n_UuZmKmM0-64">
           <mxGeometry relative="1" as="geometry" />
@@ -423,7 +420,7 @@
           <mxGeometry x="590" y="20" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PehuMIGnU_n_UuZmKmM0-76" value="" style="group" vertex="1" connectable="0" parent="1" treatAsSingle="0">
-          <mxGeometry x="35" y="-1110" width="390" height="670" as="geometry" />
+          <mxGeometry x="35" y="-1094" width="390" height="670" as="geometry" />
         </mxCell>
         <mxCell id="PehuMIGnU_n_UuZmKmM0-77" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="PehuMIGnU_n_UuZmKmM0-76">
           <mxGeometry width="390" height="670" as="geometry" />
@@ -676,9 +673,6 @@
         </mxCell>
         <mxCell id="PehuMIGnU_n_UuZmKmM0-196" value="Cihazlar" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1730" y="310" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PehuMIGnU_n_UuZmKmM0-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.967;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PehuMIGnU_n_UuZmKmM0-198" target="PehuMIGnU_n_UuZmKmM0-45">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PehuMIGnU_n_UuZmKmM0-198" value="&lt;div&gt;Api&lt;/div&gt;&lt;div&gt;Oda-Envanter&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="980" y="655" width="80" height="80" as="geometry" />
@@ -1402,6 +1396,12 @@
         </mxCell>
         <mxCell id="PehuMIGnU_n_UuZmKmM0-556" value="&lt;br&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Handyman&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="510" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PehuMIGnU_n_UuZmKmM0-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.967;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PehuMIGnU_n_UuZmKmM0-198" target="PehuMIGnU_n_UuZmKmM0-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PehuMIGnU_n_UuZmKmM0-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PehuMIGnU_n_UuZmKmM0-33" target="PehuMIGnU_n_UuZmKmM0-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
