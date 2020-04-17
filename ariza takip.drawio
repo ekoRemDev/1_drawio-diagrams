@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-17T08:28:43.490Z" agent="5.0 (Windows)" etag="24BVtp_n9k4dLgB2QttR" version="12.9.13" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-17T08:31:19.472Z" agent="5.0 (Windows)" etag="vfaZuVwaLqYKPPzfPD2-" version="12.9.13" type="github">
   <diagram id="MUwsVrfa6CfVyeA1z7Bb" name="Page-1">
     <mxGraphModel dx="2523" dy="3105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -647,6 +647,24 @@
         </mxCell>
         <mxCell id="PehuMIGnU_n_UuZmKmM0-204" value="&lt;div&gt;API&lt;/div&gt;&lt;div&gt;User Type&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="130" y="126" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PehuMIGnU_n_UuZmKmM0-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PehuMIGnU_n_UuZmKmM0-206" target="PehuMIGnU_n_UuZmKmM0-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PehuMIGnU_n_UuZmKmM0-206" value="&lt;div&gt;API&lt;/div&gt;&lt;div&gt;FAILURES&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="-952" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PehuMIGnU_n_UuZmKmM0-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PehuMIGnU_n_UuZmKmM0-210" target="PehuMIGnU_n_UuZmKmM0-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PehuMIGnU_n_UuZmKmM0-210" value="&lt;div&gt;API&lt;/div&gt;FAILURES" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="-610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PehuMIGnU_n_UuZmKmM0-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PehuMIGnU_n_UuZmKmM0-211" target="PehuMIGnU_n_UuZmKmM0-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PehuMIGnU_n_UuZmKmM0-211" value="&lt;div&gt;API&lt;/div&gt;FAILURES" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-209" y="-780" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
