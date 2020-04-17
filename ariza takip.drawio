@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-17T07:12:27.942Z" agent="5.0 (Windows)" etag="Z2PAw48KVgNcvMErblKF" version="12.9.13" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-17T07:25:01.259Z" agent="5.0 (Windows)" etag="dgyiGa_4YW83RAens7DR" version="12.9.13" type="github">
   <diagram id="MUwsVrfa6CfVyeA1z7Bb" name="Page-1">
     <mxGraphModel dx="2523" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -254,9 +254,6 @@
         </mxCell>
         <mxCell id="PehuMIGnU_n_UuZmKmM0-42" value="&lt;div&gt;Users&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="-30" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PehuMIGnU_n_UuZmKmM0-44" value="&lt;h1&gt;Odada tanimli Cihazlar&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="410" width="340" height="150" as="geometry" />
         </mxCell>
         <mxCell id="PehuMIGnU_n_UuZmKmM0-45" value="Oda No Sec" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
           <mxGeometry x="645" y="680" width="240" height="30" as="geometry" />
