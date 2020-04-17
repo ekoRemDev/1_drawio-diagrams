@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-17T13:14:15.941Z" agent="5.0 (Windows)" etag="JaUkO3zkApnB4tEhme8u" version="12.9.13" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-17T13:16:57.914Z" agent="5.0 (Windows)" etag="pPn27KcrYLdsJYDY5tUp" version="12.9.13" type="github">
   <diagram id="MUwsVrfa6CfVyeA1z7Bb" name="Page-1">
     <mxGraphModel dx="2881" dy="4399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1251,17 +1251,6 @@
         <mxCell id="PehuMIGnU_n_UuZmKmM0-740" value="&lt;div style=&quot;font-size: 20px&quot; align=&quot;left&quot;&gt;Scan Room QR Code&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PehuMIGnU_n_UuZmKmM0-743">
           <mxGeometry x="112.5" y="480" width="227.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PehuMIGnU_n_UuZmKmM0-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.607;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PehuMIGnU_n_UuZmKmM0-184" target="PehuMIGnU_n_UuZmKmM0-161">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2160" y="1665" />
-              <mxPoint x="2160" y="1980" />
-              <mxPoint x="1130" y="1980" />
-              <mxPoint x="1130" y="1647" />
-              <mxPoint x="1188" y="1647" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PehuMIGnU_n_UuZmKmM0-761" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PehuMIGnU_n_UuZmKmM0-141" target="PehuMIGnU_n_UuZmKmM0-161">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1340,6 +1329,17 @@
         </mxCell>
         <mxCell id="PehuMIGnU_n_UuZmKmM0-765" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.646;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PehuMIGnU_n_UuZmKmM0-185" target="PehuMIGnU_n_UuZmKmM0-161">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PehuMIGnU_n_UuZmKmM0-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.607;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PehuMIGnU_n_UuZmKmM0-184" target="PehuMIGnU_n_UuZmKmM0-161">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2160" y="1665" />
+              <mxPoint x="2160" y="1980" />
+              <mxPoint x="1130" y="1980" />
+              <mxPoint x="1130" y="1647" />
+              <mxPoint x="1188" y="1647" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
