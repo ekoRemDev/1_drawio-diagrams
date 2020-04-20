@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-20T12:53:35.190Z" agent="5.0 (Windows)" etag="qhfIDURz3mJd-3bASGzn" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-20T12:57:26.300Z" agent="5.0 (Windows)" etag="TqjoOUeR6ei50ghGR7C8" version="12.9.14" type="github">
   <diagram id="20_5PYtZwHAfMyzghSd2" name="Page-1">
-    <mxGraphModel dx="1520" dy="2382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="1869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,46 +24,19 @@
         <mxCell id="bqUeKo3Wiq3iDWw3Xnol-5" value="&lt;div style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;Zuniac&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;Splash &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;Screen&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeWidth=7;" parent="bqUeKo3Wiq3iDWw3Xnol-3" vertex="1">
           <mxGeometry x="50" y="170" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bqUeKo3Wiq3iDWw3Xnol-7" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="2905" y="150.00000000000006" width="200" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="bqUeKo3Wiq3iDWw3Xnol-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;rounded=0;comic=0;fillColor=none;gradientColor=#ffffff;" parent="bqUeKo3Wiq3iDWw3Xnol-7" vertex="1">
-          <mxGeometry width="200" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="bqUeKo3Wiq3iDWw3Xnol-9" value="&lt;div style=&quot;font-size: 20px&quot;&gt;User Name&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeWidth=7;" parent="bqUeKo3Wiq3iDWw3Xnol-7" vertex="1">
-          <mxGeometry x="40" y="72" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="bqUeKo3Wiq3iDWw3Xnol-18" value="Shake to Win" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#d5e8d4;align=center;strokeColor=#82b366;" parent="bqUeKo3Wiq3iDWw3Xnol-7" vertex="1">
-          <mxGeometry x="47.25" y="249.99999999999994" width="105.5" height="16.88" as="geometry" />
-        </mxCell>
-        <mxCell id="bqUeKo3Wiq3iDWw3Xnol-19" value="Scratch Card" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#d5e8d4;align=center;strokeColor=#82b366;" parent="bqUeKo3Wiq3iDWw3Xnol-7" vertex="1">
-          <mxGeometry x="47.25" y="279.99999999999994" width="105.5" height="16.88" as="geometry" />
-        </mxCell>
-        <mxCell id="bqUeKo3Wiq3iDWw3Xnol-20" value="Fortune Wheel" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#d5e8d4;align=center;strokeColor=#82b366;" parent="bqUeKo3Wiq3iDWw3Xnol-7" vertex="1">
-          <mxGeometry x="47.25" y="309.99999999999994" width="105.5" height="16.88" as="geometry" />
-        </mxCell>
-        <mxCell id="fBDtRqCFRPzxWsRX7wNW-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Euro-Coin-128.png" vertex="1" parent="bqUeKo3Wiq3iDWw3Xnol-7">
-          <mxGeometry x="152.75" y="34" width="38" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="fBDtRqCFRPzxWsRX7wNW-8" value="LeaderBoard Status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeWidth=7;" vertex="1" parent="bqUeKo3Wiq3iDWw3Xnol-7">
-          <mxGeometry x="27.75" y="130" width="130" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="fBDtRqCFRPzxWsRX7wNW-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/flat-ui-icons-24-px/24/menu-24-128.png" vertex="1" parent="bqUeKo3Wiq3iDWw3Xnol-7">
-          <mxGeometry x="19.25" y="39" width="28" height="28" as="geometry" />
-        </mxCell>
         <mxCell id="bqUeKo3Wiq3iDWw3Xnol-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bqUeKo3Wiq3iDWw3Xnol-19" edge="1" target="fBDtRqCFRPzxWsRX7wNW-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3300" y="438" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3181" y="438" />
-              <mxPoint x="3181" y="437" />
+              <mxPoint x="3005" y="458" />
+              <mxPoint x="3319" y="458" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bqUeKo3Wiq3iDWw3Xnol-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.623;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="bqUeKo3Wiq3iDWw3Xnol-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3181" y="473" />
+              <mxPoint x="3181" y="493" />
               <mxPoint x="3181" y="843" />
             </Array>
             <mxPoint x="3301" y="842.9700000000003" as="targetPoint" />
@@ -393,6 +366,42 @@
               <mxPoint x="3840" y="447" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fBDtRqCFRPzxWsRX7wNW-72" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2905" y="150.00000000000006" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="bqUeKo3Wiq3iDWw3Xnol-7" value="" style="group" parent="fBDtRqCFRPzxWsRX7wNW-72" vertex="1" connectable="0">
+          <mxGeometry width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="bqUeKo3Wiq3iDWw3Xnol-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;rounded=0;comic=0;fillColor=none;gradientColor=#ffffff;" parent="bqUeKo3Wiq3iDWw3Xnol-7" vertex="1">
+          <mxGeometry width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="bqUeKo3Wiq3iDWw3Xnol-9" value="&lt;div style=&quot;font-size: 20px&quot;&gt;User Name&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeWidth=7;" parent="bqUeKo3Wiq3iDWw3Xnol-7" vertex="1">
+          <mxGeometry x="40" y="140" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bqUeKo3Wiq3iDWw3Xnol-18" value="Shake to Win" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#d5e8d4;align=center;strokeColor=#82b366;" parent="bqUeKo3Wiq3iDWw3Xnol-7" vertex="1">
+          <mxGeometry x="47.25" y="269.99999999999994" width="105.5" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="bqUeKo3Wiq3iDWw3Xnol-19" value="Scratch Card" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#d5e8d4;align=center;strokeColor=#82b366;" parent="bqUeKo3Wiq3iDWw3Xnol-7" vertex="1">
+          <mxGeometry x="47.25" y="299.99999999999994" width="105.5" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="bqUeKo3Wiq3iDWw3Xnol-20" value="Fortune Wheel" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#d5e8d4;align=center;strokeColor=#82b366;" parent="bqUeKo3Wiq3iDWw3Xnol-7" vertex="1">
+          <mxGeometry x="47.25" y="329.99999999999994" width="105.5" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="fBDtRqCFRPzxWsRX7wNW-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Euro-Coin-128.png" vertex="1" parent="bqUeKo3Wiq3iDWw3Xnol-7">
+          <mxGeometry x="152.75" y="34" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="fBDtRqCFRPzxWsRX7wNW-8" value="310 / 169.765" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="bqUeKo3Wiq3iDWw3Xnol-7">
+          <mxGeometry x="85" y="205" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fBDtRqCFRPzxWsRX7wNW-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/flat-ui-icons-24-px/24/menu-24-128.png" vertex="1" parent="bqUeKo3Wiq3iDWw3Xnol-7">
+          <mxGeometry x="19.25" y="39" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="fBDtRqCFRPzxWsRX7wNW-71" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/shopping-and-retail-15/512/Crown-128.png" vertex="1" parent="bqUeKo3Wiq3iDWw3Xnol-7">
+          <mxGeometry x="19.25" y="180" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fBDtRqCFRPzxWsRX7wNW-73" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="bqUeKo3Wiq3iDWw3Xnol-7">
+          <mxGeometry x="70" y="67" width="63" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
