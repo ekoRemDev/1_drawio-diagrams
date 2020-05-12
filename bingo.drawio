@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-12T11:41:36.864Z" agent="5.0 (Windows)" etag="rmCLp4dmvBctZ382-gkv" version="13.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-12T11:41:48.764Z" agent="5.0 (Windows)" etag="NCzRJ1KK8pu6j72ko3BQ" version="13.0.6" type="github">
   <diagram id="hyMBlP3Ab5VuCvEYyF4_" name="Page-1">
     <mxGraphModel dx="823" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -521,7 +521,7 @@
         <mxCell id="mvTbUv54LLQ37Vtnu26t-367" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;10 cent&lt;/b&gt;&lt;/font&gt;" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#d5e8d4;align=center;strokeColor=#82b366;arcSize=0;" vertex="1" parent="mvTbUv54LLQ37Vtnu26t-361">
           <mxGeometry x="10" y="130" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mvTbUv54LLQ37Vtnu26t-368" value="Chose Game" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="mvTbUv54LLQ37Vtnu26t-361">
+        <mxCell id="mvTbUv54LLQ37Vtnu26t-368" value="Chose Bet" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="mvTbUv54LLQ37Vtnu26t-361">
           <mxGeometry x="50" y="50" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mvTbUv54LLQ37Vtnu26t-369" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mvTbUv54LLQ37Vtnu26t-365" target="mvTbUv54LLQ37Vtnu26t-111">
